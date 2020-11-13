@@ -57,12 +57,7 @@ github_repo_name = "molecule"
 github_repo_slug = f"{github_repo_org}/{github_repo_name}"
 github_repo_url = f"{github_url}/{github_repo_slug}"
 
-extlinks = {
-    "issue": (f"{github_repo_url}/issues/%s", "#"),
-    "pr": (f"{github_repo_url}/pull/%s", "PR #"),
-    "commit": (f"{github_repo_url}/commit/%s", ""),
-    "gh": (f"{github_url}/%s", "GitHub: "),
-}
+
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -142,7 +137,7 @@ html_favicon = "_static/images/favicon.ico"
 
 html_theme_options = {
     "collapse_navigation": False,
-    "analytics_id": "UA-128382387-1",
+   #  "analytics_id": "UA-128382387-1",
     "style_nav_header_background": "#5bbdbf",
     "style_external_links": True,
     # 'canonical_url': "https://docs.ansible.com/ansible/latest/",
@@ -153,7 +148,7 @@ html_theme_options = {
 html_context = {
     'display_github': 'True',
     'github_user': 'ansible-community',
-    'github_repo': 'molecule',
+    'github_repo': 'essayhave',
     'github_version': 'master/docs/',
     'current_version': version,
     'latest_version': 'latest',
@@ -285,22 +280,7 @@ autoclass_content = 'both'
 #
 # The update script depends on this format so deviating from this (for instance, adding a third
 # location for the mappning to live) will confuse it.
-intersphinx_mapping = {'python': ('https://docs.python.org/2/', (None, '../python2.inv')),
-                       'python3': ('https://docs.python.org/3/', (None, '../python3.inv')),
-                       'jinja2': ('http://jinja.palletsprojects.com/', (None, '../jinja2.inv')),
-                       'ansible_2_9': ('https://docs.ansible.com/ansible/2.9/', (None, '../ansible_2_9.inv')),
-                       'ansible_2_8': ('https://docs.ansible.com/ansible/2.8/', (None, '../ansible_2_8.inv')),
-                       'ansible_2_7': ('https://docs.ansible.com/ansible/2.7/', (None, '../ansible_2_7.inv')),
-                       'ansible_2_6': ('https://docs.ansible.com/ansible/2.6/', (None, '../ansible_2_6.inv')),
-                       'ansible_2_5': ('https://docs.ansible.com/ansible/2.5/', (None, '../ansible_2_5.inv')),
-    "ansible": ("https://docs.ansible.com/ansible/latest/", None),
-    "pip": ("https://pip.pypa.io/en/latest/", None),
-    "python": ("https://docs.python.org/3", None),
-    "python2": ("https://docs.python.org/2", None),
-    "testinfra": ("https://testinfra.readthedocs.io/en/latest/", None),
-    "yamllint": ("http://yamllint.readthedocs.io/en/latest/", None),
-    "virtualenv": ("https://virtualenv.pypa.io/en/latest/", None),
-    }
+
 
 # linckchecker settings
 linkcheck_ignore = [
