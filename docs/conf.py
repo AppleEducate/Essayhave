@@ -100,30 +100,20 @@ pygments_style = 'sphinx'
 
 highlight_language = 'YAML+Jinja'
 
-# Substitutions, variables, entities, & shortcuts for text which do not need to link to anything.
-# For titles which should be a link, use the intersphinx anchors set at the index, chapter, and section levels, such as  qi_start_:
-# |br| is useful for formatting fields inside of tables
-# |_| is a nonbreaking space; similarly useful inside of tables
-rst_epilog = """
-.. |br| raw:: html
 
-   <br>
-.. |_| unicode:: 0xA0
-    :trim:
-"""
 
 
 # Options for HTML output
 # -----------------------
 
-html_theme_path = [sphinx_ansible_theme.get_html_theme_path()]
-html_theme = 'sphinx_ansible_theme'
+
+
 
 html_show_sphinx = False
 html_favicon = "_static/images/favicon.ico"
 
 html_theme_options = {
-    "collapse_navigation": False,
+    "collapse_navigation": True,
 
     "style_nav_header_background": "#5bbdbf",
     "style_external_links": True,
@@ -132,7 +122,7 @@ html_theme_options = {
 }
 
 html_context = {
-    'display_github': 'True',
+    'display_github': 'False',
     'github_user': 'ansible-community',
     'github_repo': 'essayhave',
     'github_version': 'master/docs/',
