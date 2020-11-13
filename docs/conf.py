@@ -26,16 +26,7 @@ sys.path.insert(0, os.path.abspath("../.."))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    "sphinx.ext.autodoc",
-    "sphinx.ext.coverage",
-    "sphinx.ext.doctest",
-    "sphinx.ext.extlinks",
-    "sphinx.ext.intersphinx",
-    "sphinx.ext.todo",
-    "sphinx_ansible_theme.ext.pygments_lexer",
-    "notfound.extension",
-]
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['.templates']
@@ -48,14 +39,10 @@ master_doc = 'index'
 
 # General information about the project.
 project = "Molecule"
-copyright = " %s, Red Hat Inc." % datetime.date.today().year
-author = "AUTHORS.rst"
+copyright = " %s, EssayHave" % datetime.date.today().year
 
-github_url = "https://github.com"
-github_repo_org = "ansible"
-github_repo_name = "molecule"
-github_repo_slug = f"{github_repo_org}/{github_repo_name}"
-github_repo_url = f"{github_url}/{github_repo_slug}"
+
+
 
 
 
@@ -137,12 +124,11 @@ html_favicon = "_static/images/favicon.ico"
 
 html_theme_options = {
     "collapse_navigation": False,
-   #  "analytics_id": "UA-128382387-1",
+
     "style_nav_header_background": "#5bbdbf",
     "style_external_links": True,
-    # 'canonical_url': "https://docs.ansible.com/ansible/latest/",
     'vcs_pageview_mode': 'edit',
-    "navigation_depth": 3,
+
 }
 
 html_context = {
@@ -214,20 +200,19 @@ html_copy_source = False
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
 # base URL from which the finished HTML is served.
-# html_use_opensearch = 'https://docs.ansible.com/ansible/latest'
+
 
 # If nonempty, this is the file name suffix for HTML files (e.g. ".xhtml").
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Poseidodoc'
 
 # Configuration for sphinx-notfound-pages
 # with no 'notfound_template' and no 'notfound_context' set,
 # the extension builds 404.rst into a location-agnostic 404 page
 #
 # default is `en` - using this for the sub-site:
-notfound_default_language = "ansible"
+
 # default is `latest`:
 # setting explicitly - docsite serves up /ansible/latest/404.html
 # so keep this set to `latest` even on the `devel` branch
@@ -282,9 +267,6 @@ autoclass_content = 'both'
 # location for the mappning to live) will confuse it.
 
 
-# linckchecker settings
-linkcheck_ignore = [
-    r'http://irc\.freenode\.net',
-]
+
 linkcheck_workers = 25
 # linkcheck_anchors = False
