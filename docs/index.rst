@@ -4,7 +4,8 @@ Essay Writing Service Manual: Simplify Your Student Life
 Whenever you feel that there are too many assignments with pressing deadlines and you need a break, turn to a reliable essay writing service like this one. Here you can easily hire experienced writers to help you cope with assignments of any complexity. Student life is stressful. You are only a few clicks away from a much-needed relaxation.
 
 `How to use essay writing service <http://essayhave.club/essay-writing-service.html>`_ effectively 
-.. image:: en/latest/_static/images/1.png
+
+.. image:: images/1.png
   :width: 400
   :alt: Essay Writing Service
 
@@ -23,8 +24,10 @@ By logging in to your account, you will see all the orders you've made and the w
 
 
 
-PDF Files:
 
+
+
+PDF Files:
 https://trollius.readthedocs.io/en/latest/_static/images/essay-ws.pdf
 https://trollius.readthedocs.io/en/latest/_static/images/phh.pdf
 https://trollius.readthedocs.io/en/latest/_static/images/cw.pdf
