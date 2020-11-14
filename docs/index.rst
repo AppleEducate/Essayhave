@@ -1,6 +1,3 @@
-
-
-
 Essay Writing Service Manual: Simplify Your Student Life
 ========================
  
