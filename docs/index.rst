@@ -5,7 +5,11 @@ Essay Writing Service Manual: Simplify Your Student Life
 ========================
  
 Whenever you feel that there are too many assignments with pressing deadlines and you need a break, turn to a reliable essay writing service like this one. Here you can easily hire experienced writers to help you cope with assignments of any complexity. Student life is stressful. You are only a few clicks away from a much-needed relaxation.
+
 How to use essay writing service effectively
+.. image:: en/latest/_static/images/1.png
+  :width: 400
+  :alt: Essay Writing Service
 
 First of all, make sure you know exactly what type of essay you need. It is better to clarify all the details with your teacher before you place an order here. Once you've done that, you can fill out an order form to inform our experts about your requirements. Just make sure to specify the academic level of the essay you need. its deadline, number of pages, etc. It will take you a couple of minutes to do so. 
 How to choose the category of writer
