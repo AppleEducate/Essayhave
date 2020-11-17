@@ -33,4 +33,4 @@ https://trollius.readthedocs.io/en/latest/_static/images/phh.pdf
 https://trollius.readthedocs.io/en/latest/_static/images/cw.pdf
 https://trollius.readthedocs.io/en/latest/_static/images/ehh.pdf
 https://trollius.readthedocs.io/en/latest/_static/images/wr-my.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/integra.pdf
+https://trollius.readthedocs.io/en/latest/_static/images/integral.pdf
