@@ -5,7 +5,7 @@ Whenever you feel that there are too many assignments with pressing deadlines an
 
 `How to use essay writing service <http://essayhave.club/essay-writing-service.html>`_ effectively 
 
-.. image:: images/1.png
+.. image:: /_static/images/1.png
   :width: 400
   :alt: Essay Writing Service
 
