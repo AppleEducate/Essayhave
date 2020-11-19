@@ -1,4 +1,4 @@
-Guide on how to Buy Essay
+Guide on how to `Buy Essay <https://www.buyessayscheap.com/>`_
 ========================
  
 Want to buy an essay? 
