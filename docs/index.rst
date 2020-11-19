@@ -2,6 +2,7 @@ Guide on how to Buy Essay
 ========================
  
 Want to buy an essay? 
+
 "`BuyEssaysCheap.com <https://www.buyessayscheap.com/>`_"is an expert in writing student papers in economic, legal, humanities and other disciplines. Order any type of work quickly and at reasonable prices. Experience gained over the years of providing services to students, guarantees the quality of order execution.
 
 
