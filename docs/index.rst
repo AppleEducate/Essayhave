@@ -14,7 +14,6 @@ You can choose from 3 options: best available, advanced, and one of the top 10 w
 How to manage your orders
 By logging in to your account, you will see all the orders you've made and the writers' progress. If you need to attach any additional instructions or information to your current order, you can do so easily. Communicate with the writers and make suggestions in terms of your essays. You can take an active part in the process or let our experts take care of all the difficulties. The support team will be glad to answer all of your questions.
 
-`Most Popular Essay Writing Service  <http://essayhave.club/essay-writing-service.html>`_
 
 
 
@@ -22,11 +21,3 @@ By logging in to your account, you will see all the orders you've made and the w
 
 
 
-
-PDF Files:
-https://trollius.readthedocs.io/en/latest/_static/images/essay-ws.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/phh.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/cw.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/ehh.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/wr-my.pdf
-https://trollius.readthedocs.io/en/latest/_static/images/integral.pdf
