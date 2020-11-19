@@ -38,7 +38,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = "EssayHave"
+project = "BuyEssaysCheap.com"
 copyright = " %s, EssayHave" % datetime.date.today().year
 
 
