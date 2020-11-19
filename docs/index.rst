@@ -1,8 +1,9 @@
 Guide on how to `Buy Essay <https://www.buyessayscheap.com/>`_
 ========================
+
 .. image:: /_static/images/Buy_Essay.png
-:width: 400
-:alt: Buy Essay
+  :width: 400
+  :alt: Buy Essay
   
 Want to buy an essay? 
 
