@@ -39,7 +39,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = "BuyEssaysCheap.com"
-copyright = " %s, EssayHave" % datetime.date.today().year
+copyright = " %s, BuyEssaysCheap.com" % datetime.date.today().year
 
 
 
